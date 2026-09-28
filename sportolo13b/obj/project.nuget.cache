@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "O8iYfKRMq8o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MohacsiM\\source\\repos\\sportolo13b\\sportolo13b\\sportolo13b.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MohacsiM\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\MohacsiM\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
