@@ -1,1 +1,81 @@
-[]
+[
+  {
+    "ContainingType": "sportolo13b.Controllers.EredmenyController",
+    "Method": "GetSportolok",
+    "RelativePath": "api/Eredmeny",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sportolo13b.Controllers.EredmenyController",
+    "Method": "PostEredmeny",
+    "RelativePath": "api/Eredmeny",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "postEredmenyDTO",
+        "Type": "sportolo13b.Models.DTOs.PostEredmenyDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sportolo13b.Controllers.EredmenyController",
+    "Method": "PutEredmeny",
+    "RelativePath": "api/Eredmeny",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "putEredmenyDTO",
+        "Type": "sportolo13b.Models.DTOs.PutEredmenyDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sportolo13b.Controllers.EredmenyController",
+    "Method": "DeleteEredmeny",
+    "RelativePath": "api/Eredmeny",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sportolo13b.Controllers.EredmenyController",
+    "Method": "GetEredmenyId",
+    "RelativePath": "api/Eredmeny/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -34,7 +34,7 @@ CREATE TABLE `eredmeny` (
   `resultTime` datetime DEFAULT NULL,
   `updateTime` datetime DEFAULT NULL,
   `sportoloId` int(11) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=56 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_hungarian_ci;
 
 --
 -- A tábla adatainak kiíratása `eredmeny`
@@ -60,7 +60,7 @@ CREATE TABLE `sportolo` (
   `age` int(11) NOT NULL,
   `password` varchar(100) NOT NULL,
   `registrationTime` datetime NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_hungarian_ci;
 
 --
 -- A tábla adatainak kiíratása `sportolo`

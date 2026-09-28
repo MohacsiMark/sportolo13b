@@ -33,3 +33,5 @@ C:\Users\MohacsiM\source\repos\sportolo13b\sportolo13b\obj\Debug\net10.0\sportol
 C:\Users\MohacsiM\source\repos\sportolo13b\sportolo13b\obj\Debug\net10.0\sportolo13b.genruntimeconfig.cache
 C:\Users\MohacsiM\source\repos\sportolo13b\sportolo13b\obj\Debug\net10.0\ref\sportolo13b.dll
 C:\Users\MohacsiM\source\repos\sportolo13b\sportolo13b\obj\Debug\net10.0\sportolo13b.sourcelink.json
+C:\Users\MohacsiM\source\repos\sportolo13b\sportolo13b\bin\Debug\net10.0\MySqlConnector.dll
+C:\Users\MohacsiM\source\repos\sportolo13b\sportolo13b\bin\Debug\net10.0\Scalar.AspNetCore.dll

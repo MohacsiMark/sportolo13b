@@ -1,4 +1,6 @@
 
+using Scalar.AspNetCore;
+
 namespace sportolo13b
 {
     public class Program
@@ -19,6 +21,7 @@ namespace sportolo13b
             if (app.Environment.IsDevelopment())
             {
                 app.MapOpenApi();
+                app.MapScalarApiReference();
             }
 
             app.UseHttpsRedirection();
